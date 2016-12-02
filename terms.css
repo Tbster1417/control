@@ -1,0 +1,32 @@
+element.style {
+}
+h2 {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-weight: normal;
+    font-size: 36pt;
+    color: rgb(213,123,2);
+    letter-spacing: 2px;
+    margin-top: 44px;
+    margin-bottom: 0;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+Inherited from div#content
+#content {
+    text-align: left;
+    background-color: white;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    border-style: outset;
+    border-width: 2px;
+}
